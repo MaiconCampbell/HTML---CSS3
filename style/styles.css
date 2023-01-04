@@ -61,7 +61,9 @@ header > p {
   padding-left: 10px;
   /* quando forçar as dimensões o elemento vira bloco sendo necessário aplicar o margin */
   max-width: 600px;
+  padding-bottom: 50px;
   margin: auto;
+
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
 }
 
