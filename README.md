@@ -19,7 +19,7 @@
   ## Video linkado do youtube
   ![alt text](https://github.com/MaiconCampbell/HTML---CSS3/blob/main/assets/imagens/Tela4.png)
 
-  ## Mais formações
+  ## Mais informações
   ![alt text](https://github.com/MaiconCampbell/HTML---CSS3/blob/main/assets/imagens/Tela5.png)
 
 <div>
